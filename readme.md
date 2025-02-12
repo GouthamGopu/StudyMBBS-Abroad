@@ -39,10 +39,10 @@ This project is a **responsive landing page** for "Study MBBS Abroad," designed 
 
 ## Deployment
 The live demo is hosted at:
-[Live Demo Link]()
+[Live Demo Link](poetic-rabanadas-133470.netlify.app)
 
 ## License
 This project is open-source and free to use.
 
 ## Contact
-For any questions, contact **G. Goutham** via [GitHub](https://github.com/GouthamGopu/).
+For any questions, contact **G. Goutham** via [LinkedIn](https://www.linkedin.com/in/goutham-gopu/).
